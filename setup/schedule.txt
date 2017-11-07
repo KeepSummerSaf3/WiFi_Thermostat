@@ -1,0 +1,11 @@
+#schedule file  (XX-hour, XX-minute, XX-temperature)
+#weekday - wake, leave, arive, sleep  |  weekend - wake, leave, arrive, sleep
+07,00,74
+08,00,78 
+17,00,73
+20,00,72
+10,00,70
+11,00,73 
+17,00,75
+22,00,69
+[EOF]

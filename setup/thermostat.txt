@@ -1,0 +1,11 @@
+#Initialization file
+[network]
+oconnors.dyndns-server.com/weather/METARS
+KMSY.txt
+[user_settings]
+#deadband, heat cutoff, ac cutoff, humidity cutoff
+3,70,60,60
+[disablements]
+#disablements
+0,0,0,0
+[EOF]
